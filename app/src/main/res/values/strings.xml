@@ -1,0 +1,772 @@
+<resources>
+    <string name="app_name">The 5 Star Guide To Athens</string>
+
+    <string name="name_attr_acropolis">Acropolis of Athens</string>
+    <string name="address_attr_acropolis">Athens, 105 58</string>
+    <string name="description_attr_acropolis">The Acropolis is the most important ancient site in
+        the Western world. Crowned by the Parthenon, it stands sentinel over Athens, visible from
+        almost everywhere within the city. Its monuments and sanctuaries of Pentelic marble gleam
+        white in the midday sun and gradually take on a honey hue as the sun sinks, while at night
+        they stand brilliantly illuminated above the city. A glimpse of this magnificent sight
+        cannot fail to exalt your spirit. Inspiring as these monuments are, they are but faded
+        remnants of the city of Pericles, who spared no expense – only the best materials,
+        architects, sculptors and artists were good enough for a city dedicated to the cult of
+        Athena. It was a showcase of lavishly coloured colossal buildings and of gargantuan statues,
+        some of bronze, others of marble plated with gold and encrusted with precious stones. The
+        Acropolis was first inhabited in Neolithic times (4000–3000 BC). The first temples were
+        built during the Mycenaean era, in homage to the goddess Athena. People lived on the
+        Acropolis until the late 6th century BC, but in 510 BC the Delphic oracle declared that it
+        should be the province of the gods. After all the buildings on the Acropolis were reduced to
+        ashes by the Persians on the eve of the Battle of Salamis (480 BC), Pericles set about his
+        ambitious rebuilding program. He transformed the Acropolis into a city of temples, which has
+        come to be regarded as the zenith of classical Greek achievement. Ravages inflicted during
+        the years of foreign occupation, pilfering by foreign archaeologists, inept renovations
+        following Independence, visitors’ footsteps, earthquakes and, more recently, acid rain and
+        pollution have all taken their toll on the surviving monuments. The worst blow was in 1687,
+        when the Venetians attacked the Turks, opening fire on the Acropolis and causing an
+        explosion in the Parthenon – where the Turks had been storing gunpowder – and damaging all
+        the buildings. Major restoration programs are continuing and many of the original sculptures
+        have been moved to the Acropolis Museum and replaced with casts. The Acropolis became a
+        World Heritage–listed site in 1987.</string>
+    <string name="telephone_attr_acropolis">+30 21 0321 4172</string>
+    <string name="url_attr_acropolis">odysseus.culture.gr</string>
+    <string name="coordinates_attr_acropolis">37.971753, 23.725744</string>
+    <string name="advice_attr_acropolis">Remember to bring a hat and water because
+        the climb is difficult and the sun is hot</string>
+
+    <string name="name_attr_ancientagora">Ancient Agora</string>
+    <string name="address_attr_ancientagora">Adrianou, Athens, 105 55</string>
+    <string name="description_attr_ancientagora">The heart of ancient Athens was the Agora, the
+        lively, crowded focal point of administrative, commercial, political and social activity.
+        Socrates expounded his philosophy here, and in AD 49 St Paul came here to win converts to
+        Christianity. The site today is a lush, refreshing respite, with beautiful monuments and
+        temples and a fascinating museum. First developed as a public site in the 6th century BC,
+        the Agora was devastated by the Persians in 480 BC, but a new one was built in its place
+        almost immediately. It was flourishing by Pericles’ time and continued to do so until
+        AD 267, when it was destroyed by the Herulians, a Gothic tribe from Scandinavia. The Turks
+        built a residential quarter on the site, but this was demolished by archaeologists after
+        Independence and later excavated to classical and, in parts, Neolithic levels.</string>
+    <string name="telephone_attr_ancientagora">+30 21 0321 0185</string>
+    <string name="url_attr_ancientagora">odysseus.culture.gr/h/3/gh351.jsp?obj_id=2485</string>
+    <string name="coordinates_attr_ancientagora">37.974658, 23.722002</string>
+    <string name="advice_attr_ancientagora">After your visit you can have a coffee at the beautiful
+        cafes at Adrianou street</string>
+
+    <string name="name_attr_plaka">Plaka district</string>
+    <string name="address_attr_plaka">Athens, 105 58</string>
+    <string name="description_attr_plaka">Due to its proximity to the Acropolis, Plaka remains
+        the area where the majority of foreign visitors stay and play. Its attractive features
+        include small squares, some notable museums and the beautiful Mitropolis cathedral, as
+        well as a host of places to stay, eat and drink. Its pedestrian zones make it a pleasant
+        place to escape from the city’s notorious traffic. Adrianou and Kidathineon Streets
+        contain a number of souvenir shops, offering classier items than you will find in the
+        Flea Market. The most rewarding section to explore is the upper reaches towards the
+        Acropolis itself, where many old stone houses with tiled roofs have survived. Up here
+        you can find leafier corners and the odd quaint taverna with unobstructed views of the
+        ancient rock.</string>
+    <string name="telephone_attr_plaka" />
+    <string name="url_attr_plaka" />
+    <string name="coordinates_attr_plaka">37.971660, 23.730329</string>
+    <string name="advice_attr_plaka">Don\'t miss the beautiful tavernas</string>
+
+    <string name="name_attr_nam">National Archeological Museum</string>
+    <string name="address_attr_nam">28 Oktovriou 44, Athens, 106 82</string>
+    <string name="description_attr_nam">One of the world’s most important museums, the National
+        Archaeological Museum houses the world\'s finest collection of Greek antiquities. Treasures
+        offering a view of Greek art and history – dating from the Neolithic era to classical
+        periods – include exquisite sculptures, pottery, jewellery, frescoes and artefacts found
+        throughout Greece. The beautifully presented exhibits are displayed mainly thematically.
+        Allow plenty of time to view the vast and spectacular collections (more than 11,000 items)
+        housed in this enormous (8000-sq-metre) 19th-century neoclassical building. It could take
+        several visits to appreciate the museum’s vast holdings, but it\'s possible to see the
+        highlights in a half-day. The museum also hosts world-class temporary exhibitions. In
+        addition to the highlights, the museum has a superb pottery collection on its upper floor,
+        which traces the development of pottery from the Bronze Age through Attic red-figured
+        pottery (late 5th to early 4th centuries BC). Among the treasures are six Panathenaic
+        amphorae presented to the winners of the Panathenaic Games. They contained oil from the
+        sacred olive trees of Athens and victors might have received up to 140 of them.</string>
+    <string name="telephone_attr_nam">+30 21 3214 4800</string>
+    <string name="url_attr_nam">www.namuseum.gr/wellcome-en.html</string>
+    <string name="coordinates_attr_nam">37.989023, 23.732738</string>
+    <string name="advice_attr_nam">Plan ahead and take your time. The museum is huge</string>
+
+    <string name="name_attr_acropolismuseum">Acropolis Museum</string>
+    <string name="address_attr_acropolismuseum">Dionysiou Areopagitou 15, Athens, 117 42</string>
+    <string name="description_attr_acropolismuseum">This dazzling modernist museum at the foot of
+        the Acropolis\' southern slope showcases its surviving treasures still in Greek possession.
+        While the collection covers the Archaic and Roman periods, the emphasis is on the Acropolis
+        of the 5th century BC, considered the apotheosis of Greece\'s artistic achievement. The
+        museum cleverly reveals layers of history, floating over ruins with the Acropolis visible
+        above, showing the masterpieces in context. The surprisingly good-value restaurant has
+        superb views; there’s also a fine museum shop. Designed by US-based architect Bernard
+        Tschumi with Greek architect Michael Photiadis, the €130-million museum includes items
+        formerly held in other museums or in storage, as well as pieces returned from foreign
+        museums. As you enter the museum grounds, look through the plexiglass floor to see the
+        ruins of an ancient Athenian neighbourhood, which were artfully incorporated into the museum
+        design after being uncovered during excavations. Finds from the slopes of the Acropolis are
+        on display in the foyer gallery, which has an ascending glass floor emulating the climb up
+        to the sacred hill, while allowing glimpses of the ruins below. Exhibits include painted
+        vases and votive offerings from the sanctuaries where gods were worshipped, and more recent
+        objects found in excavations of the settlement, including two clay statues of Nike at the
+        entrance. Bathed in natural light, the 1st-floor Archaic Gallery is a veritable forest of
+        statues, mostly votive offerings to Athena. These include stunning examples of 6th-century
+        kore (maidens) – statues of young women in draped clothing and elaborate braids, usually
+        carrying a pomegranate, wreath or bird. Most were recovered from a pit on the Acropolis,
+        where the Athenians buried them after the Battle of Salamis. The 570 BC statue of a youth
+        bearing a calf is one of the rare male statues found. There are also bronze figurines and
+        artefacts from temples predating the Parthenon (destroyed by the Persians), including
+        wonderful pedimental sculptures such as Hercules slaying the Lernaian Hydra and a lioness
+        devouring a bull. Also on this floor are five Caryatids, the maiden columns that held up
+        the Erechtheion (the sixth is in the British Museum), and a giant floral akrotirion (a
+        decorative element capping a gable) that once crowned the southern ridge of the Parthenon
+        pediment. The museum’s crowning glory is the top-floor Parthenon Gallery, a glass atrium
+        built in alignment with the temple, and a virtual replica of the cella of the Parthenon,
+        which can be seen from the gallery. It showcases the temple’s sculptures, metopes and 160m-
+        long frieze, which for the first time in over 200 years is shown in sequence as one
+        narrative about the Panathenaic Procession. The Procession starts at the southwest corner
+        of the temple, with two groups splitting off and meeting on the east side for the delivery
+        of the peplos to Athena. Interspersed between the golden-hued originals are stark-white
+        plaster replicas of the missing pieces – the controversial Parthenon Marbles hacked off by
+        Lord Elgin in 1801 and later sold to the British Museum (more than half the frieze is in
+        London) – making a compelling case for their reunification.</string>
+    <string name="telephone_attr_acropolismuseum">+30 21 0900 0900</string>
+    <string name="url_attr_acropolismuseum">www.theacropolismuseum.gr/en</string>
+    <string name="coordinates_attr_acropolismuseum">37.968458, 23.728566</string>
+    <string name="advice_attr_acropolismuseum">Don’t miss the movie describing the history of the
+        Acropolis.</string>
+
+    <string name="name_attr_templeofolympianzeus">Temple of Olympian Zeus</string>
+    <string name="address_attr_olympianzeus">Athens, 105 57</string>
+    <string name="description_attr_templeofolympianzeus">You can’t miss this striking marvel smack
+        in the centre of Athens. It is the largest temple in Greece; begun in the 6th century BC by
+        Peisistratos, it was abandoned for lack of funds. Various other leaders had stabs at
+        completing it, but it was left to Hadrian to complete the work in AD 131 – taking more than
+        700 years in total to build. The temple is impressive for the sheer size of its 104
+        Corinthian columns (17m high with a base diameter of 1.7m), of which 15 remain – the fallen
+        column was blown down in a gale in 1852. Hadrian put a colossal statue of Zeus in the cella
+        – and in typically immodest fashion, placed an equally large one of himself next to it.
+    </string>
+    <string name="telephone_attr_olympianzeus">+30 210 922 6330</string>
+    <string name="url_attr_olympianzeus">odysseus.culture.gr/h/2/gh251.jsp?obj_id=12863</string>
+    <string name="coordinates_attr_olympianzeus">37.969283, 23.733143</string>
+    <string name="advice_attr_olympianzeus">You can get a multi-ticket that allows you to visit the
+        Acropolis and 5 other sites</string>
+
+
+    <string name="name_attr_lycabettus">Lycabettus Hill</string>
+    <string name="address_attr_lycabettus">Athens, 114 71</string>
+    <string name="description_attr_lycabettus">The name Lykavittos – ‘Hill of Wolves’ – derives from
+        ancient times, when the hill was surrounded by countryside and its pine-covered slopes were
+        inhabited by wolves. A path leads to the summit from the top of Loukianou for the finest
+        panoramas of the city and the Attic basin – the nefos (pollution haze) permitting.
+        Alternatively, take the funicular railway, or teleferik, from the top of Ploutarhou in
+        Kolonaki. Perched on the summit is the little Chapel of Agios Giorgios, floodlit like a
+        beacon over the city at night. Open-air Lykavittos Theatre, northeast of the summit, hosts
+        concerts in summer.</string>
+    <string name="telephone_attr_lycabettus" />
+    <string name="url_attr_lycabettus" />
+    <string name="coordinates_attr_lycabettus">37.982023, 23.743035</string>
+    <string name="advice_attr_lycabettus">The view is magnificent</string>
+
+    <string name="name_attr_panathenaicstadium">Panathenaic Stadium</string>
+    <string name="address_attr_panathenaicstadium">Leoforos Vasileos Konstantinou, Athens, 116 35</string>
+    <string name="description_panathenaicstadium">The grand Panathenaic Stadium lies between two
+        pine-covered hills between the neighbourhoods of Mets and Pangrati. It was originally built
+        in the 4th century BC as a venue for the Panathenaic athletic contests. It\'s said that at
+        Hadrian’s inauguration in AD 120, 1000 wild animals were sacrificed in the arena. Later, the
+        seats were rebuilt in Pentelic marble by Herodes Atticus. There are seats for 70,000
+        spectators, a running track and a central area for field events. After hundreds of years of
+        disuse, the stadium was completely restored in 1895 by wealthy Greek benefactor Georgios
+        Averof to host the first modern Olympic Games the following year. It\'s a faithful replica
+        of the original Panathenaic Stadium, and it made a stunning backdrop to the archery
+        competition and the marathon finish during the 2004 Olympics. It\'s occasionally used for
+        concerts and public events, and the annual Athens marathon finishes here.</string>
+    <string name="telephone_attr_panathenaicstadium">+30 21 0752 2984</string>
+    <string name="url_attr_panathenaicstadium">www.panathenaicstadium.gr</string>
+    <string name="coordinates_attr_panathenaicstadium">37.968334, 23.741101</string>
+    <string name="advice_attr_panathenaicstadium">The first modern Olympic games were hosted here in
+        1896</string>
+
+    <string name="name_attr_unknownsoldier">Tomb of the Unknown Soldier</string>
+    <string name="address_attr_unknownsoldier">Leoforos Vasilissis Amalias 133, Athens, 105 57</string>
+    <string name="description_attr_tomboftheunknownsoldier">In front of the parliament building on
+        Plateia Syntagmatos, the traditionally costumed evzones (guards) of the Tomb of the Unknown
+        Soldier change every hour on the hour. On Sunday at 11am, a whole platoon marches down
+        Vasilissis Sofias to the tomb, accompanied by a band. The presidential guards\' uniform of
+        short kilts and pom-pom shoes is based on the attire worn by the klephts (the mountain
+        fighters of the War of Independence).</string>
+    <string name="telephone_attr_unknownsoldier" />
+    <string name="coordinates_attr_unknownsoldier">37.975350, 23.736366</string>
+    <string name="url_attr_unknownsoldier" />
+    <string name="advice_attr_unknownsoldier">The guards are very impressive standing absolutely
+        still no matter the conditions</string>
+
+    <string name="name_attr_benaki">Benaki Museum</string>
+    <string name="address_attr_benaki">Koumbari 1, Athens, 106 74</string>
+    <string name="description_attr_benaki">Greece’s finest private museum contains the vast
+        collection of Antonis Benakis, accumulated during 35 years of avid collecting in Europe and
+        Asia. The collection includes Bronze Age finds from Mycenae and Thessaly; works by El Greco;
+        ecclesiastical furniture brought from Asia Minor; pottery, copper, silver and woodwork from
+        Egypt, Asia Minor and Mesopotamia; and a stunning collection of Greek regional costumes. The
+        museum has expanded into several branches, including the Pireos Annexe, to house its vast
+        and diverse collections and is a major player in the city’s arts scene. It hosts a full
+        schedule of rotating exhibitions.</string>
+    <string name="telephone_attr_benaki">+30 21 0367 1000</string>
+    <string name="url_attr_benaki">www.benaki.gr</string>
+    <string name="coordinates_attr_benaki">37.975944, 23.740457</string>
+    <string name="advice_attr_benaki">The museum store has excellent gift ideas and the restaurant
+        at the top floor is worth a visit</string>
+
+    <string name="name_attr_cycladic">Museum of Cycladic Art</string>
+    <string name="address_attr_cycladic">Neofytou Douka 4, Athens, 106 74</string>
+    <string name="description_attr_cycladicart">This exceptional private museum boasts the largest
+        independent collection of distinctive Cycladic art and holds excellent periodic exhibitions
+        of all sorts. The 1st-floor Cycladic collection, dating from 3000 BC to 2000 BC, includes
+        the marble figurines that inspired many 20th-century artists, such as Picasso and Modigliani,
+        with their simplicity and purity of form. The rest of the museum features Greek and Cypriot
+        art dating from 2000 BC to the 4th century AD. The 4th-floor exhibition, Scenes from Daily
+        Life in Antiquity, includes artefacts and films depicting life in Ancient Greece.</string>
+    <string name="telephone_attr_cycladic">+30 21 0722 8321</string>
+    <string name="url_attr_cycladic">www.cycladic.gr</string>
+    <string name="coordinates_attr_cycladic">37.975703, 23.742211</string>
+    <string name="advice_attr_cycladic">Start your visit from the 4th floor and then descent</string>
+
+
+    <string name="name_attr_byzantine"><![CDATA[Byzantine & Christian Museum]]></string>
+    <string name="address_attr_byzantine">Leoforos Vasilissis Sofias 22, Athens, 106 75</string>
+    <string name="description_attr_byzantinemuseum">This outstanding museum – on the grounds of
+        former Villa Ilissia, an urban oasis – presents a priceless collection of Christian art from
+        the 3rd to 20th centuries. Thematic snapshots of the Byzantine and post-Byzantine world are
+        exceptionally presented in expansive, well-lit, multilevel galleries, clearly arranged
+        chronologically with English translations. The collection includes icons, frescoes,
+        sculptures, textiles, manuscripts, vestments and mosaics. The villa grounds, which sit next
+        to Aristotle’s Lyceum, include ancient ruins such as the Peisistratos aqueduct.</string>
+    <string name="telephone_attr_byzantine">+30 21 0723 1570</string>
+    <string name="url_attr_byzantine">www.byzantinemuseum.gr</string>
+    <string name="coordinates_attr_byzantine">37.975418, 23.744582</string>
+    <string name="advice_attr_byzantine">You can combine your visit to the Byzantine museum with the
+        Benaki and the Cycladic art museums as they are really close one to the other</string>
+
+    <string name="name_hot_grandebretagne">Grande Bretagne</string>
+    <string name="address_hot_grandebretagne">Vasileos Georgiou A’ 1, 105 64, Athens</string>
+    <string name="description_hot_grandebretagne">If you aspire to the best, the place to stay in
+        Athens is – and always has been – the Grande Bretagne, right on the Syntagma square. Built
+        in 1862 to accommodate visiting heads of state, it ranks among the grandest hotels in the
+        world. Though renovated some years ago, it still retains its old-world grandeur. There is a
+        divine spa, and the Acropolis-view rooftop restaurant and bar are worth a visit, even if you
+        aren’t a guest.</string>
+    <string name="telephone_hot_grandebretagne">+30 210 3330000</string>
+    <string name="url_hot_grandebretagne">grandebretagne.gr</string>
+    <string name="coordinates_hot_grandebretagne">37.976338, 23.735339</string>
+    <string name="advice_hot_grandebretagne">The atmosphere during the Christmas holidays is
+        extravagant</string>
+
+    <string name="name_hot_cocomat">COCO-MAT Hotel Athens</string>
+    <string name="address_hot_cocomat">Patriarchou Ioakeim 36, Athens, 106 75 </string>
+    <string name="telephone_hot_cocomat">+30 21 0723 0000</string>
+    <string name="description_hot_cocomat">COCO-MAT is a greek producer of quality mattresses and
+        pillows. You can rest reassured that you will sleep like a baby! COCO-MAT Hotel Athens is an
+        understated luxury, design hotel that sits in the heart of Kolonaki, perhaps the city’s most
+        exclusive district, and offers relaxing sleep, delicious homemade breakfast and selected
+        services for its esteemed guests.</string>
+    <string name="url_hot_cocomat">www.cocomatathens.com/</string>
+    <string name="coordinates_hot_cocomat">37.977950, 23.744173</string>
+    <string name="advice_hot_cocomat">Homemade breakfast buffet available from 7 to 11. Takeaway
+        meals and beach towels available.</string>
+
+    <string name="name_hot_hilton">Hilton Athens</string>
+    <string name="address_hot_hilton">Vasilissis Sofias 46, Athens, 115 28</string>
+    <string name="telephone_hot_hilton">+30 21 0728 1000</string>
+    <string name="description_hot_hilton">Located in the heart of Athens, the Hilton Athens boasts
+        elegant rooms, 3 swimming pools, the popular rooftop Galaxy Bar and 4 restaurants.
+        Evangelismos Metro Station is just a few steps away and connects to Syntagma Square within
+        5 minutes. This 5-star hotel offers spacious rooms and suites with marble bathrooms with
+        walk-in shower and bathtub. LCD TVs with cable and satellite channels, and work desks with
+        adjustable lamps are included. Floor-to-ceiling patio doors and balconies offer views of the
+        Athenian landscape or the Acropolis. Milos Restaurant, which serves Greek gourmet cuisine
+        including fresh fish is a favourite of local celebrities. The Byzantino restaurant proposes
+        a Mediterranean buffet or a la carte menu and the richest Sunday brunch in Athens. On the
+        11th floor, guests can access the Executive Lounge offering free breakfast and refreshments
+        to Executive rooms residents. The stylish rooftop Galaxy Bar serves signature cocktails,
+        whilst offering Acropolis views from its open-air terrace. The Oasis Pool Bar &amp; Grill
+        serves Mediterranean cuisine or snacks. Located in the commercial district of the city, the
+        hotel is just 500 m from the National Art Gallery, the Athens Concert Hall and the Kolonaki
+        shopping district. The famous Acropolis of Athens is 4 km away and the historic Plaka area
+        lies within 2.5 km. </string>
+    <string name="url_hot_hilton">www3.hilton.com/en/hotels/greece/hilton-athens-ATHHITW/index.html</string>
+    <string name="coordinates_hot_hilton">37.976475, 23.750417</string>
+    <string name="advice_hot_hilton">Especially for the kids, hilton offers a huge swimming pool and
+        a creative playing area next to the main restaurant</string>
+
+    <string name="name_hot_electrametropolis">Electra Metropolis Athens</string>
+    <string name="address_hot_electrametropolis">Mitropoleos 15, Athens, 105 57</string>
+    <string name="telephone_hot_electrametropolis">+30 21 4100 6200</string>
+    <string name="description_hot_electrametropolis">The latest addition of the Electra Hotels
+        family, the Electra Metropolis Athens hotel, adds an aura of luxury to the city of Athens.
+        A unique sky-lit atrium along with a modern interior design allow guests to enjoy a hotel
+        experience in classic atmosphere while exploring the historical landmarks of the Greek
+        capital. All rooms and suites of the Electra Metropolis hotel are modernly equipped with all
+        the necessary amenities, while the wooden floors and the warm colors set the tone for
+        relaxation. Furthermore, the suites of this luxurious city hotel offer spectacular views to
+        Lycabettus Hill and the Acropolis. Equipped with modern facilities, the “Metropolis Roof
+        Garden” and the “M bar” both located on the 10th floor, the Electra Metropolis hotel
+        constitutes the ideal setting to indulge yourself in modern luxury in the heart of the
+        city.</string>
+    <string name="url_hot_electrametropolis">www.electrahotels.gr/</string>
+    <string name="coordinates_hot_electrametropolis">37.975128, 23.732162</string>
+    <string name="advice_hot_electrametropolis">The bar-restaurant on the last floor has a striking
+        view to the Acropolis</string>
+
+    <string name="name_hot_inn">in[n]Athens Urban Stay</string>
+    <string name="address_hot_inn">Georgiou Souri 3, Athens, 105 57</string>
+    <string name="telephone_hot_inn">+30 210 3258555</string>
+    <string name="description_hot_inn">InnAthens Hotel have managed to bring together comfort and
+        modern design in the perfect location. Right in the center of Athens, just a few steps from
+        Syntagma square, the never sleeping Ermou str. and the breathtaking Acropolis InnAthens have
+        established the ideal urban destination. With just 20 rooms in total, InnAthens\' goal is
+        for the guests to enjoy a personalized experience, reminiscent of the vintage yet
+        industrialized city of Athens. Greek marble and steel come together harmonically and bring
+        out the Greek chic character of the rooms and the lobby area. Each room is unique and all
+        elements are handpicked and custom made. The hotel\'s philosophy is for the  visitors to feel
+        comfortable and at home in such a way that their stay in our hotel will be part of a unique
+        experience of their trip in Athens.</string>
+    <string name="url_hot_inn">www.innathens.com</string>
+    <string name="coordinates_hot_inn">37.973479, 23.734347</string>
+    <string name="advice_hot_inn">The hotel offers take-away breakfast if you check-out early</string>
+
+    <string name="name_hot_astir">Astir Palace</string>
+    <string name="address_hot_astir">Apollonos 40, Vouliagmeni, 166 71</string>
+    <string name="telephone_hot_astir">+30 21 0890 2000</string>
+    <string name="description_hot_astir">The world-renowned Astir Palace is a luxury resort on the
+        Athenian Riviera, consisting of the five-star hotels, Arion, a Luxury Collection Resort
+        &amp; Spa and The Westin Athens. Sprawling across 75 acres of sun-drenched gardens on a
+        pine-dotted private peninsula, the resort complex boasts breathtaking views of the Saronic
+        Gulf on the Mediterranean Sea and three private beaches including Astir beach and Astir
+        Marina. </string>
+    <string name="url_hot_astir">www.astirpalace.com</string>
+    <string name="coordinates_hot_astir">37.804613, 23.771293</string>
+    <string name="advice_hot_astir">Currently the hotel is being fully renovated and will be closed
+        for the summer of 2017</string>
+
+    <string name="name_hot_margi">The Margi</string>
+    <string name="address_hot_margi">Litous 11, Vouliagmeni, 166 71</string>
+    <string name="telephone_hot_margi">+30 21 0892 9000</string>
+    <string name="description_hot_margi">The most hospitable, elegant and arty hotel of the Athenian
+        Riviera is recommended for brief escapes with a taste of the tropics, for magical evenings
+        by the pool and for candle-lit romantic dinners. In the early 60s, when influential Greeks
+        decided to transform a part of the Saronic coast into a chic and glamorous holiday
+        destination, to create their very own Côte d’ Azur a doctor, Yancos Stavridis, shared his
+        vision of an Athenian Riviera and contributed by founding The Margi Hotel. Now, several
+        decades later, its boutique esthetic, its warm luxury and its Mediterranean vibe, have
+        helped The Margi emerge as one of Athens’ favorite hotels. Small objets d’art, ethnic
+        details and design references complete its mystical setting. It is located near Athens’ most
+        elegant sandy beach and yacht marina in Vouliagmeni on the southern coast, offering guests
+        the chance to enjoy the Greek summer and all that it entails: diving in the waters of
+        Vouliagmeni Bay, taking day-cruises, enjoying the sea breeze and exploring cosmopolital
+        Glyfada – just five minutes away – for shopping and fun. At the end of the day, returning to
+        this warm and luxurious haven is ample reward.</string>
+    <string name="url_hot_margi">www.themargi.gr</string>
+    <string name="coordinates_hot_margi">37.813884, 23.774010</string>
+    <string name="advice_hot_margi">Patio restaurant has been named by CNN as one of the best new
+        restaurants in the world for 2017</string>
+
+    <string name="name_hot_periscope">Periscope</string>
+    <string name="address_hot_periscope">Haritos 22, Athens, 106 75</string>
+    <string name="telephone_hot_periscope">+30 21 0729 7200</string>
+    <string name="description_hot_periscope">Right in chic Kolonaki overlooking Lykavittos,
+        Periscope is a design hotel with industrial decor. Clever gadgets are sprinkled throughout,
+        including the lobby slide show and aerial shots of the city on the ceilings. Korres organic
+        toiletries and the trendy Pbox restaurant add to the vibe. The penthouse’s private rooftop
+        spa has sensational views.Boasting a central location, in the heart of Kolonaki, Periscope
+        is a boutique city hotel offering minimally decorated accommodation with state-of-the-art
+        facilities. Periscope rooms and suites are soundproofed with wooden floors. Each comes with
+        a flat-screen TV, CD and DVD library, and pillow menu. The modern bathrooms are stocked with
+        luxurious toiletries, bathrobes and slippers.</string>
+    <string name="url_hot_periscope">www.yeshotels.gr/hotel/periscope</string>
+    <string name="coordinates_hot_periscope">37.978322, 23.744074</string>
+    <string name="advice_hot_periscope">Haritos street is a very vivid one (full of bars and
+        restaurants) so if you like quiet choose a high floor room</string>
+
+    <string name="name_hot_360">360 Degrees</string>
+    <string name="address_hot_360">Plateia Monastirakiou, Athens, 105 55</string>
+    <string name="telephone_hot_360">+30 21 0324 0034</string>
+    <string name="description_hot_360">Smack on Monastiraki square, these modern rooms are topped by
+        a super roof restaurant serving up those eponymous 360-degree views. For the quietest rooms,
+        book on an upper floor, facing away from the square.</string>
+    <string name="url_hot_360">www.360hotelathens.com</string>
+    <string name="coordinates_hot_360">37.976421, 23.725669</string>
+    <string name="advice_hot_360">Avoid the rooms in the front, Monastiraki square can be quite
+        noisy. Apart from this, the location is superb</string>
+
+    <string name="name_hot_new">New Hotel</string>
+    <string name="address_hot_new">Filellinon 16, Athens, 105 57</string>
+    <string name="telephone_hot_new">+30 21 0327 3000</string>
+    <string name="description_hot_new">Whether you dig the groovy, top-designer Campana Brothers
+        furniture or the sleeping-pillow menu (tell ’em how you like it!), you’ll find some sort of
+        decadent treat here to tickle your fancy. Part of a renowned local design-hotel group, NEW
+        Hotel is the latest entry on the high-end Athens scene. This brand new design hotel stands
+        in a prominent central city location, 200 metres from Syntagma Square. With free Wi-Fi
+        throughout the property, New Hotel houses a Mediterranean restaurant and a fitness area.
+        Designed by award-winning Brazilian designers the Campana Brothers, 79-room and non-smoking
+        New Hotel is a member of Design Hotels of the world. The New Hotel was formerly the Olympic
+        Palace Hotel and while strikingly modern in design today, original features have been
+        retained, including the 1940s black marble staircase. Rooms feature floor to ceiling
+        windows, bamboo floors and tables.The impressive bathrooms have solid brass washbasins.
+        LCD TVs are standard.</string>
+    <string name="url_hot_new">www.yeshotels.gr/hotel/new-hotel</string>
+    <string name="coordinates_hot_new">37.973338, 23.733639</string>
+    <string name="advice_hot_new">One of the best Sunday brunches in town</string>
+
+    <string name="name_din_cookoovaya">Cookoovaya</string>
+    <string name="address_din_cookoovaya">Chatzigianni Mexi 2A, 115 28, Athens</string>
+    <string name="description_din_cookoovaya">Greek cuisine, developed though life experiences,
+        inspiration and ingredients entrusted to their capable hands, complements your group,
+        whether a party of two, three or many more.</string>
+    <string name="telephone_din_cookoovaya">+30 210 7235 005</string>
+    <string name="url_din_cookoovaya">cookoovaya.gr</string>
+    <string name="coordinates_din_cookoovaya">37.977021, 23.751437</string>
+    <string name="advice_din_cookoovaya">Five chefs have joined forces and the result is amazing</string>
+
+    <string name="name_din_dionysos">Dionysos</string>
+    <string name="address_din_dionysos">Rovertou Galli 43, Athens, 117 43</string>
+    <string name="description_din_dionysos">Location, location, location. Eat here for the fantastic
+        sweep of plate glass looking out onto the unblemished south slope of the Acropolis. Food is
+        pricey but service is attentive… Date night?</string>
+    <string name="telephone_din_dionysos">+30 21 0923 3182</string>
+    <string name="url_din_dionysos">www.dionysoszonars.gr</string>
+    <string name="coordinates_din_dionysos">37.969483, 23.722448</string>
+    <string name="advice_din_dionysos">Dionysos restaurant is frequently used to host foreign
+        leaders on their visit in Greece</string>
+
+    <string name="name_din_varoulko">Varoulko</string>
+    <string name="address_din_varoulko">Akti Koumoundourou 52, Pireus, 104 35</string>
+    <string name="description_din_varoulko">For a heady Greek dining experience, try the
+        Michelin-starred combination of waterfront views and Lefteris Lazarou\'s delicious seafood.
+        Sip on top wines as sailboats bob in the harbour at Mikrolimano.</string>
+    <string name="telephone_din_varoulko">+30 21 0522 8400</string>
+    <string name="url_din_varoulko">www.varoulko.gr</string>
+    <string name="coordinates_din_varoulko">37.937403, 23.658438</string>
+    <string name="advice_din_varoulko">Chef Lefteris Lazarou was a judge on the greek version of
+        Master Chef</string>
+
+    <string name="name_din_basegrill">Basegrill</string>
+    <string name="address_din_basegrill">Leoforos Konstantinoupoleos 64, Peristeri, 121 33</string>
+    <string name="description_din_basegrill">There’s no need to reiterate that this restaurant
+        serves what are perhaps the finest Greek steak along with the most celebrated “eggs and
+        fries” in the entire country. After all, the restaurant\'s motto is "Only our salt comes
+        from the sea". </string>
+    <string name="telephone_din_basegrill">+30 21 0575 7455</string>
+    <string name="url_din_basegrill">www.basegrillathens.gr</string>
+    <string name="coordinates_din_basegrill">38.011887, 23.708182</string>
+    <string name="advice_din_basegrill">Book ahead, the place can get crowded</string>
+
+    <string name="name_din_kuzina">Kuzina</string>
+    <string name="address_din_kuzina">Adrianou 9, Athens, 105 55</string>
+    <string name="description_din_kuzina">Light streams through plate-glass windows, warming the
+        crowded tables in winter. Or eat outside on pedestrianised, people-watching Adrianou in
+        summer. Expect inventive Greek fusion, such as Cretan pappardelle or chicken with figs and
+        sesame.</string>
+    <string name="telephone_din_kuzina">+30 21 0324 0133</string>
+    <string name="url_din_kuzina">www.kuzina.gr</string>
+    <string name="coordinates_din_kuzina">37.976415, 23.722034</string>
+    <string name="advice_din_kuzina">The view of the Acropolis from the terrace is magnificent</string>
+
+    <string name="name_din_yolenis">Yoleni\'s</string>
+    <string name="address_din_yolenis">Solonos 9, Athens, 106 71</string>
+    <string name="description_din_yolenis">Organic extra-virgin olive oil, wild herbs, cheeses from
+        around Greece, Cretan honey, truffle salt. Artisanal breadsticks and ‘spoon’ sweets.
+        Selected wines and pasta. All those things that are sometimes hard to find, even if you live
+        in Greece, are now only a few clicks away.</string>
+    <string name="telephone_din_yolenis">+30 21 2222 3622</string>
+    <string name="url_din_yolenis">www.yolenis.com</string>
+    <string name="coordinates_din_yolenis">37.977668, 23.738824</string>
+    <string name="advice_din_yolenis">Apart from the restaurant there is a grocery store with greek
+        products in the basement and a children\'s play area on the second floor</string>
+
+    <string name="name_din_parkoeleftherias">To Parko Eleftherias</string>
+    <string name="address_din_parkoeleftherias">Park Eleftherias Vasilisis Sofias, Athens, 115 21</string>
+    <string name="description_din_parkoeleftherias">With low-key music and a romantic setting, Parko
+        is located in the greenery next to the Megaron Mousikis concert hall (and the U.S. Embassy)
+        and is a summer favorite for snacks, food and drink, day and night.</string>
+    <string name="telephone_din_parkoeleftherias">+30 21 0722 3784</string>
+    <string name="url_din_parkoeleftherias">www.toparko.gr</string>
+    <string name="coordinates_din_parkoeleftherias">37.980106, 23.751943</string>
+    <string name="advice_din_parkoeleftherias">You won\'t believe there is such a beautiful garden
+        in the heart of the city. The menu comprises of typical greek plates.</string>
+
+    <string name="name_din_spondi">Spondi</string>
+    <string name="address_din_spondi">Pyrronos 5, Athens, 116 36</string>
+    <string name="description_din_spondi">Two Michelin–starred Spondi is frequently voted Athens’
+        best restaurant, and the accolades are deserved. It offers Mediterranean haute cuisine, with
+        heavy French influences, in a relaxed, chic setting in a charming old house. Choose from the
+        menu or a range of set dinner and wine prix fixes. The restaurant has a lovely,
+        bougainvillea-draped garden.</string>
+    <string name="telephone_din_spondi">+30 21 0752 0658</string>
+    <string name="url_din_spondi">www.spondi.gr</string>
+    <string name="coordinates_din_spondi">37.965153, 23.743050</string>
+    <string name="advice_din_spondi">If you like gourmet dinning, Spondi is considered to be the
+        best greek restaurant</string>
+
+    <string name="name_din_matsuhisa">Matsuhisa Athens</string>
+    <string name="address_din_matsuhisa">Apollonos 40, Vouliagmeni, 166 71</string>
+    <string name="description_din_matsuhisa">Come to Greece to eat sushi? Well why not, if you\'re
+        in the mood to hang with chic Athenians at this popular waterfront restaurant that\'s run by
+        world-famous restaurateur Nobu Matsuhisa. Views are exquisite – to match the people and the
+        pricetag. Book ahead.</string>
+    <string name="telephone_din_matsuhisa">matsuhisaathens.com</string>
+    <string name="url_din_matsuhisa">www.matsuhisaathens.com</string>
+    <string name="coordinates_din_matsuhisa">37.806999, 23.772193</string>
+    <string name="advice_din_matsuhisa">Combine your visit with the next-door Astir
+        private beach club for a perfect seaside experience.</string>
+
+    <string name="name_din_zonars">Zonar\'s</string>
+    <string name="address_din_zonars">Voukourestiou 9, Athens, 106 71</string>
+    <string name="description_din_zonars">Zonar\'s is the most historic coffee-pastry shop in
+        Athens. Today, Zonar\'s maintains its secular character, serves fresh ideas, while it still
+        maintains the traditional style. The place is elegant with art deco elements.</string>
+    <string name="telephone_din_zonars">+30 21 0325 1430</string>
+    <string name="url_din_zonars">www.zonarsathens.gr</string>
+    <string name="coordinates_din_zonars">37.977308, 23.735273</string>
+    <string name="advice_din_zonars">The most expensive coffee in town, but still worth the
+        experience</string>
+
+    <string name="name_sho_goldenhall">Golden Hall</string>
+    <string name="address_sho_goldenhall">Leoforos Kifisias 37A, Marousi, 151 23</string>
+    <string name="description_sho_goldenhall">At an excellent and the same time easily accessible
+        location, at Kifissias avenue, at Maroussi, Golden Hall has been created for the visitor who
+        wants the best in shopping. It has been awarded as the best shopping centre in Europe and at
+        its 41,000m2 you will find 131 stores with brands, elegant restaurants and cafes, an
+        outdoors area next to the entrance so you can enjoy the sun, but also the various events
+        that are organized and an underground two-level parking space with 1,400 available
+        spots.</string>
+    <string name="telephone_sho_goldenhall">+30 21 0680 3450</string>
+    <string name="url_sho_goldenhall">www.goldenhall.gr</string>
+    <string name="coordinates_sho_goldenhall">38.034123, 23.792276</string>
+    <string name="advice_sho_goldenhall">Combine shopping with kids activities (indoor and outdoor
+        playgrounds, Lego area etc)</string>
+
+    <string name="name_sho_id">i-D Concept Store</string>
+    <string name="address_sho_id">Kanari 12, 106 74, Athens</string>
+    <string name="description_sho_id">“i-D Concept Stores” aims to offer you a unique collection of
+        hand-picked jewelry, colorful accessories, eclectic apparel and unique objects.  i-D’s
+        flagship store spans 3500 square feet of retail space in the urban chic Kolonaki center of
+        Athens and comprises three floors of stylish, elegant, sophisticated, contemporary and edgy
+        men’s and women’s collections, a dedicated art area and a special place for unique designer
+        exhibits.</string>
+    <string name="telephone_sho_id">+30 210 3221801</string>
+    <string name="url_sho_id">www.idconceptstores.com</string>
+    <string name="coordinates_sho_id">37.977008, 23.739400</string>
+    <string name="advice_sho_id">Check out Wings and Kooreloo handcrafted handbags</string>
+
+    <string name="name_sho_attica">attica, The Department Store</string>
+    <string name="address_sho_attica">Panepistimiou 9, Athens, 105 64</string>
+    <string name="description_sho_attica">This upmarket department store in the Citylink complex
+        (which houses top fashion labels and jewellers) has eight levels crammed with leading
+        brands, hip clothing, cosmetics and designer temptations.</string>
+    <string name="telephone_sho_attica">+30 21 1180 2600</string>
+    <string name="url_sho_attica">www.atticadps.gr/</string>
+    <string name="coordinates_sho_attica">37.977606, 23.734969</string>
+    <string name="advice_sho_attica">Don\'t miss a passage called stoa Milliou behind attica, which
+        houses some very nice cafe-restaurants</string>
+
+    <string name="name_sho_ileanamakri">Ileana Makri</string>
+    <string name="address_sho_ileanamakri">Haritos 11A, Athens, 106 75</string>
+    <string name="description_sho_ileanamakri">Barneys New York was the first store to stock Greek
+        designer Ileana Makri’s collection of evil eyes and Fatima hands back in 1999, but now
+        boutiques and luxe department shops around the globe feature Makri’s pieces. The designer\'s
+        concept store in Kolonaki is a bazaar of carefully curated designer jewelry and fashion,
+        as well as a showroom for gorgeous, gem-encrusted pieces that sit beautifully in glass
+        cases.</string>
+    <string name="telephone_sho_ileanamakri">+30 21 0725 1471</string>
+    <string name="url_sho_ileanamakri">www.ileanamakri.com</string>
+    <string name="coordinates_sho_ileanamakri">37.978162, 23.743049</string>
+    <string name="advice_sho_ileanamakri">Don\'t miss the collection of "evil eyes"</string>
+
+    <string name="name_sho_thalassa">Thalassa Collection</string>
+    <string name="address_sho_thalassa">Patriarchou Ioakeim 30–32, Athens, 106 75</string>
+    <string name="description_sho_thalassa">Thalassa Collection is located in the fashionable
+        Kolonaki district and specializes in the design and production of scarves, ties, shawls.
+        Mainly inspired by Greek tradition and history, all patterns are exclusively designed in the
+        Athens atelier and printed on fine quality fabrics such as silk, cashmere, cotton. Some of
+        the best selling designs are the "Greek Alphabet" design, the "Evil Eye", the "Tsarouhi",
+        and also the designs inspired from the Greek Islands. The obsession in every single detail,
+        the use of fine quality materials, and the incredibly rich variety of colors are the key
+        element that define the world of Thalassa Collection.</string>
+    <string name="telephone_sho_thalassa">+30 21 0725 8525</string>
+    <string name="url_sho_thalassa">www.thalassacollection.com/</string>
+    <string name="coordinates_sho_thalassa">37.977945, 23.743932</string>
+    <string name="advice_sho_thalassa">Thalassa recently opened a second store in Valoritou street</string>
+
+    <string name="name_sho_apivita">The Apivita Experience Store</string>
+    <string name="address_sho_apivita">Solonos 6, Athens, 106 73</string>
+    <string name="description_sho_apivita">This five-storey beauty emporium and spa stocks Apivita’s
+        chemical-free cosmetics made with honey, royal jelly and bee pollen. You can create your own
+        personalized beauty products with a pharmacist and aromatherapist. At the cozy, top-floor
+        Beehive spa, the cabins are made of beehives and the ceiling is honey-tinted crystal.</string>
+    <string name="telephone_sho_apivita">+30 21 0364 0560</string>
+    <string name="url_sho_apivita">www.apivita.com</string>
+    <string name="coordinates_sho_apivita">37.977362, 23.739289</string>
+    <string name="advice_sho_apivita">On the 1st floor you can find a nice bio-juice bar. Also, here
+        you can find excellent honey.</string>
+
+    <string name="name_sho_monastiraki">Monastiraki Flea market</string>
+    <string name="address_sho_monastiraki">Ifaistou, Athens, 105 55</string>
+    <string name="description_sho_monastiraki">This traditional market has a festive atmosphere,
+        combined with an onslaught of more modern souvenir stalls. Permanent antique and
+        collectables shops are open all week, while the streets around the station and Adrianou fill
+        with vendors selling jewellery, handicrafts and bric-a-brac.</string>
+    <string name="telephone_sho_monastiraki">+30 694 608 6114</string>
+    <string name="url_sho_monastiraki"></string>
+    <string name="coordinates_sho_monastiraki">37.976611, 23.723896</string>
+    <string name="advice_sho_monastiraki">Don\'t forget to barter, it\'s part of the process</string>
+
+    <string name="name_sho_ermou">Ermou street</string>
+    <string name="address_sho_ermou">Ermou, Athens, 105 57</string>
+    <string name="description_sho_ermou">If you start at the top of Syntagma Square and walk down
+        the steps and past the fountain, at the bottom of the square is the beginning of Ermou
+        Street, a paradise for those who live to shop. From the Parliament building you can make a
+        straight line that follows Ermou all the way to The Gazi, the old gas works of Athens. Ermou
+        street is a commercial avenue which has been turned into a pedestrian only street . It is
+        the primary clothing shopping street for Athens and contains many of the big international
+        names.</string>
+    <string name="telephone_sho_ermou"></string>
+    <string name="url_sho_ermou"></string>
+    <string name="coordinates_sho_ermou">37.975688, 23.733691</string>
+    <string name="advice_sho_ermou">If you are looking for children\'s clothing don\'t miss Lapin
+        House</string>
+
+    <string name="name_kid_snfcc">Stavros Niarchos Foundation Cultural Center</string>
+    <string name="address_kid_snfcc">Andrea Syngrou 364, 176 74, Kallithea</string>
+    <string name="description_kid_snfcc">The Stavros Niarchos Foundation Cultural
+        Center is a complex in the bay of Phaliron in Athens which includes new
+        facilities for the National Library of Greece and the National Opera. The
+        Center was designed by architect Renzo Piano and is being built by the
+        Stavros Niarchos Foundation. The €566 million project was completed in
+        2016, and was donated to the Greek state in 2017.</string>
+    <string name="telephone_kid_snfcc">+30 21 6809 1000</string>
+    <string name="url_kid_snfcc">snfcc.org</string>
+    <string name="coordinates_kid_snfcc">37.939984, 23.691899</string>
+    <string name="advice_kid_snfcc">Plenty of activities for the young ones, including a music
+        playground and kids library</string>
+
+    <string name="name_kid_nationalgarden">National Garden</string>
+    <string name="address_kid_nationalgarden">Amalias 1, Athens, 105 57</string>
+    <string name="description_kid_nationalgarden">Just a few metres away from Syntagma metro station
+        and right next to the Greek parliament lies the national garden which, together with the
+        zappeion hall garden, covers 24 hectares full of vegetation, rare kinds of plants, saplings
+        and birds.</string>
+    <string name="telephone_kid_nationalgarden">+30 21 0721 5019</string>
+    <string name="url_kid_nationalgarden">www.cityofathens.gr/node/614</string>
+    <string name="coordinates_kid_nationalgarden">37.973441, 23.737855</string>
+    <string name="advice_kid_nationalgarden">During June 2017, the city of Athens is organizing more
+        than 150 activities in the garden</string>
+
+    <string name="name_kid_childrensmuseum">Hellenic Children\'s Museum</string>
+    <string name="address_kid_childrensmuseum"><![CDATA[Rigillis & Vasileos Georgiou B\' 17–19,
+    Athens, 106 75]]></string>
+    <string name="description_kid_childrensmuseum">The Hellenic Children\'s Museum has a variety of
+        exhibits that aim to help every child understand the world in which he or she lives, in his
+        or her own way. The philosophy of the Hellenic Children’s Museum is based on the phrase “I
+        hear and I forget, I see and I remember, I do and I understand”. In the Children’s Museum,
+        children can broaden their knowledge and experiences in many different areas. The exhibit
+        Hello Pythagoras helps children understand the concept of geometry. In the Playground, they
+        play with building materials to create different constructions. At the Marketplace, they are
+        taught about the concept of supply and demand, and in the Kitchen area, they experiment with
+        food ingredients and recipes and have the opportunity to try their hand at cooking. While
+        the programmes are in Greek, they can also be conducted in English upon special request. The
+        museum organises recreational activities depending on children’s ages as well as seasonal
+        educational programmes. It is worth visiting the toy store with its innovative games that
+        stir children’s imagination and the materials store that has cheap recycled materials with
+        which children can build creative constructions and get acquainted with the concept of
+        recycling.</string>
+    <string name="telephone_kid_childrensmuseum">+30 21 0331 2995</string>
+    <string name="url_kid_childrensmuseum">www.hcm.gr</string>
+    <string name="coordinates_kid_childrensmuseum">37.973480, 23.744220</string>
+    <string name="advice_kid_childrensmuseum">Although it is called a museum it is actually a very
+        nice playground for the liitle ones</string>
+
+    <string name="name_kid_alloufunpark">Allou! Fun Park</string>
+    <string name="address_kid_alloufunpark">Leoforos Kifissou &amp; Petrou Ralli, Agios Ioannis
+        Rentis, 182 33</string>
+    <string name="description_kid_alloufunpark">Allou ! Fun Park in the neighborhood of Rentis, is
+        one of the most popular destinations for kids and adults, offering a wide choice of
+        entertainment and fun. An impressive choice of games for all preferences attract crowds
+        specially on weekends, who enjoy the excitement. Four dimension experiences at the 4D Gate,
+        crazy rotations at Crazy Mouse and Big Apple, rafting at La Isla and many more rides and
+        games for unforgettable moments. At Kidom, the park only for kids, a series of unique games
+        keep children happy, like the Carousel, the Bongo flying elephants, trains, the Youpi Tower,
+        Bloom Bloom boats and the mega colorful inflatable toys. Happenings, events and concerts are
+        often held at Allou, which also provides relaxing moments for all the family at the
+        restaurants and cafes on the location.</string>
+    <string name="telephone_kid_alloufunpark">+30 21 0809 2888</string>
+    <string name="url_kid_alloufunpark">www.allou.gr/</string>
+    <string name="coordinates_kid_alloufunpark">37.973086, 23.672362</string>
+    <string name="advice_kid_alloufunpark">Since Allou! is an outdoor facility, check the weather
+        before visiting</string>
+
+    <string name="name_kid_atticazoo">Attica Zoological Park</string>
+    <string name="address_kid_atticazoo">Spata, 190 04</string>
+    <string name="description_kid_atticazoo">Attica Zoological Park in the area of Spata is a
+        private zoo covering an area of approximately 20 hectares which is home to more than 2000
+        animals from 400 different species. Over the years it now includes a number of themed
+        sections with birds, mammals, marine mammals and reptiles from all over the world. The Park
+        is an excellent destination for education and entertainment for families and animal lovers,
+        who can see the lions, giraffes, monkeys, tigers, bears, penguins and many more while
+        walking through the zoo. Fascinating information about their habits and lives is learned
+        while admiring the animals. The Park also has a cafeteria, a souvenir shop, picnic areas
+        and a playground.</string>
+    <string name="telephone_kid_atticazoo">+30 21 0663 4724</string>
+    <string name="url_kid_atticazoo">www.atticapark.com/</string>
+    <string name="coordinates_kid_atticazoo">37.979465, 23.911273</string>
+    <string name="advice_kid_atticazoo">If you want to combine your visit with shopping, there is
+        shopping village right next door</string>
+
+    <string name="name_kid_planetarium">Eugenides Foundation Planetarium</string>
+    <string name="address_kid_planetarium">Leoforos Andrea Syngrou 387, Palaio Faliro, 175 64</string>
+    <string name="description_kid_planetarium">The Planetarium is the ideal place to take your toddlers if
+        you would like them to gain an understanding of complex concepts in a fun and effective way.
+        Through performances and interactive games, children (and adults) feel closer to the world
+        of science – which many see as distant and unknown – and develop a greater comprehension of
+        it. There are digital shows for young children such as The Little Prince, and also for
+        teenagers and adults such as Space Travel. For the older children there is an Interactive
+        Science and Technology Exhibition which aims to introduce them to new concepts (materials,
+        audio and video communication, principles of biotechnology). Children are also given the
+        chance to observe the applications of science and technology in everyday life, such as  how
+        animated movies are produced.</string>
+    <string name="telephone_kid_planetarium">+30 21 0946 9600</string>
+    <string name="url_kid_planetarium">www.eugenfound.edu.gr</string>
+    <string name="coordinates_kid_planetarium">37.939816, 23.696333</string>
+    <string name="advice_kid_planetarium">Screenings on workdays at 17:30 till 20:30, 10:30 till 14:30
+        on weekends </string>
+
+    <string name="name_kid_pnyka">Pnyka and Filopappou hills</string>
+    <string name="address_kid_pnyka">Athens, 117 41</string>
+    <string name="description_kid_pnyka">Pnyka and Filopappou hills, which are located right next to
+    the Acropolis, are an oasis in the middle of Athens. The scenery is beautiful and you can enjoy
+    a picnic with the family right in the city center.</string>
+    <string name="telephone_kid_pnyka"></string>
+    <string name="url_kid_pnyka"></string>
+    <string name="coordinates_kid_pnyka">37.971541, 23.719188</string>
+    <string name="advice_kid_pnyka">From Pnyka hill you have the most gorgeous view of the Acropolis.
+    Don\'t miss the photo op.</string>
+
+    <string name="name_kid_goulandri">Goulandris museum of natural history</string>
+    <string name="address_kid_goulandri">Levidou 13, Kifissia, 145 62</string>
+    <string name="description_kid_goulandri">Goulandris Museum of Natural History is a magical place
+        for children. Visitors can admire the rich collection of life-sized animal replicas. One
+        thing is certain … children of all ages will hold their breath while older visitors will
+        find the museum really educational. A visit to the Goulandris Museum of Natural History is a
+        great opportunity for children to come into contact with the animal and plant kingdoms and
+        understand the interaction of ecosystems. Children will be impressed by the life sized
+        exhibits, which even include mammals. The exhibition at the Gaia Centre aims to provide
+        information about the way our planet works and mankind’s influence on it. Its ultimate goal
+        is to educate visitors about our planet’s resources and improve visitors’ ecological
+        consciousness.</string>
+    <string name="telephone_kid_goulandri">+30 21 0801 5870</string>
+    <string name="url_kid_goulandri">www.gnhm.gr/en/</string>
+    <string name="coordinates_kid_goulandri">38.074484, 23.814837</string>
+    <string name="advice_kid_goulandri">Don\'t miss the beautiful cafe-restaurant of the museum</string>
+
+    <string name="loofie_says">Loofie Says:</string>
+    <string name="ImageView_content_description">Main image</string>
+</resources>
