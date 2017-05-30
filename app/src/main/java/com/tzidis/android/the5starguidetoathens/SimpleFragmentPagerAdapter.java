@@ -1,19 +1,23 @@
 package com.tzidis.android.the5starguidetoathens;
 
+import android.content.Context;
+import android.content.res.Resources;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
-/**
- * Created by Tzidis on 21-May-17.
- */
 
 public class SimpleFragmentPagerAdapter extends FragmentPagerAdapter{
     private final int PAGE_COUNT = 5;
-    private String tabTitles[] = new String[] { "Attractions", "Hotels", "Dinning", "Shopping", "Kids" };
+    String tabTitles[];
 
-    public SimpleFragmentPagerAdapter(FragmentManager fm) {
-        super(fm);    }
+    public SimpleFragmentPagerAdapter(FragmentManager fm, Context c) {
+        super(fm);
+        Resources res = c.getResources();
+        tabTitles = res.getStringArray(R.array.tabTitles);
+    }
+
+
 
     @Override
     public Fragment getItem(int position) {

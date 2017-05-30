@@ -769,4 +769,12 @@
 
     <string name="loofie_says">Loofie Says:</string>
     <string name="ImageView_content_description">Main image</string>
+    
+    <string-array name="tabTitles">
+        <item>Attractions</item>
+        <item>Hotels</item>
+        <item>Dinning</item>
+        <item>Shopping</item>
+        <item>Kids</item>
+    </string-array>
 </resources>

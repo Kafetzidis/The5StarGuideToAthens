@@ -1,9 +1,9 @@
 package com.tzidis.android.the5starguidetoathens;
 
+import android.os.Bundle;
 import android.support.design.widget.TabLayout;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         ViewPager viewPager = (ViewPager) findViewById(R.id.viewpager);
 
         // Create an adapter that knows which fragment should be shown on each page
-        SimpleFragmentPagerAdapter adapter = new SimpleFragmentPagerAdapter(getSupportFragmentManager());
+        SimpleFragmentPagerAdapter adapter = new SimpleFragmentPagerAdapter(getSupportFragmentManager(), this);
 
         // Set the adapter onto the view pager
         viewPager.setAdapter(adapter);
